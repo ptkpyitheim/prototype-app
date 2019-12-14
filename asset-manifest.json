@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/prototype-app/static/css/main.24214b86.chunk.css",
-    "main.js": "/prototype-app/static/js/main.7b820fbb.chunk.js",
-    "main.js.map": "/prototype-app/static/js/main.7b820fbb.chunk.js.map",
+    "main.js": "/prototype-app/static/js/main.7c9ff67b.chunk.js",
+    "main.js.map": "/prototype-app/static/js/main.7c9ff67b.chunk.js.map",
     "runtime-main.js": "/prototype-app/static/js/runtime-main.784ee285.js",
     "runtime-main.js.map": "/prototype-app/static/js/runtime-main.784ee285.js.map",
     "static/css/2.17e5ed98.chunk.css": "/prototype-app/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.48de729c.chunk.js": "/prototype-app/static/js/2.48de729c.chunk.js",
-    "static/js/2.48de729c.chunk.js.map": "/prototype-app/static/js/2.48de729c.chunk.js.map",
+    "static/js/2.bcb89647.chunk.js": "/prototype-app/static/js/2.bcb89647.chunk.js",
+    "static/js/2.bcb89647.chunk.js.map": "/prototype-app/static/js/2.bcb89647.chunk.js.map",
     "index.html": "/prototype-app/index.html",
-    "precache-manifest.9ef7dcf196dafced8d42009806ca6385.js": "/prototype-app/precache-manifest.9ef7dcf196dafced8d42009806ca6385.js",
+    "precache-manifest.e9b987738e0f5000863d8c13302708d7.js": "/prototype-app/precache-manifest.e9b987738e0f5000863d8c13302708d7.js",
     "service-worker.js": "/prototype-app/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/prototype-app/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.24214b86.chunk.css.map": "/prototype-app/static/css/main.24214b86.chunk.css.map",
-    "static/js/2.48de729c.chunk.js.LICENSE": "/prototype-app/static/js/2.48de729c.chunk.js.LICENSE",
+    "static/js/2.bcb89647.chunk.js.LICENSE": "/prototype-app/static/js/2.bcb89647.chunk.js.LICENSE",
     "static/media/19_18.jpg": "/prototype-app/static/media/19_18.37fd47e2.jpg",
     "static/media/AlexNautKya.jpg": "/prototype-app/static/media/AlexNautKya.3663a45d.jpg",
     "static/media/MyoGyiChangesAlbumPic.jpg": "/prototype-app/static/media/MyoGyiChangesAlbumPic.a0689854.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.784ee285.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.48de729c.chunk.js",
+    "static/js/2.bcb89647.chunk.js",
     "static/css/main.24214b86.chunk.css",
-    "static/js/main.7b820fbb.chunk.js"
+    "static/js/main.7c9ff67b.chunk.js"
   ]
 }
