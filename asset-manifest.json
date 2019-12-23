@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.css": "/prototype-app/static/css/main.3091d808.chunk.css",
-    "main.js": "/prototype-app/static/js/main.c63611a7.chunk.js",
-    "main.js.map": "/prototype-app/static/js/main.c63611a7.chunk.js.map",
+    "main.css": "/prototype-app/static/css/main.0deb45a3.chunk.css",
+    "main.js": "/prototype-app/static/js/main.f3c6287f.chunk.js",
+    "main.js.map": "/prototype-app/static/js/main.f3c6287f.chunk.js.map",
     "runtime-main.js": "/prototype-app/static/js/runtime-main.784ee285.js",
     "runtime-main.js.map": "/prototype-app/static/js/runtime-main.784ee285.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/prototype-app/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.a96bdcc9.chunk.js": "/prototype-app/static/js/2.a96bdcc9.chunk.js",
-    "static/js/2.a96bdcc9.chunk.js.map": "/prototype-app/static/js/2.a96bdcc9.chunk.js.map",
+    "static/css/2.3132dedf.chunk.css": "/prototype-app/static/css/2.3132dedf.chunk.css",
+    "static/js/2.6a0dfdb0.chunk.js": "/prototype-app/static/js/2.6a0dfdb0.chunk.js",
+    "static/js/2.6a0dfdb0.chunk.js.map": "/prototype-app/static/js/2.6a0dfdb0.chunk.js.map",
     "index.html": "/prototype-app/index.html",
-    "precache-manifest.15f167d4efc0457249b4076bcf1dbeb5.js": "/prototype-app/precache-manifest.15f167d4efc0457249b4076bcf1dbeb5.js",
+    "precache-manifest.40c68e39d89352be97b720f0aba1fe30.js": "/prototype-app/precache-manifest.40c68e39d89352be97b720f0aba1fe30.js",
     "service-worker.js": "/prototype-app/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/prototype-app/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.3091d808.chunk.css.map": "/prototype-app/static/css/main.3091d808.chunk.css.map",
-    "static/js/2.a96bdcc9.chunk.js.LICENSE": "/prototype-app/static/js/2.a96bdcc9.chunk.js.LICENSE",
+    "static/css/2.3132dedf.chunk.css.map": "/prototype-app/static/css/2.3132dedf.chunk.css.map",
+    "static/css/main.0deb45a3.chunk.css.map": "/prototype-app/static/css/main.0deb45a3.chunk.css.map",
+    "static/js/2.6a0dfdb0.chunk.js.LICENSE": "/prototype-app/static/js/2.6a0dfdb0.chunk.js.LICENSE",
     "static/media/19_18.jpg": "/prototype-app/static/media/19_18.37fd47e2.jpg",
     "static/media/Ah Chain Ma Loon Khin.jpg": "/prototype-app/static/media/Ah Chain Ma Loon Khin.0c8bfa74.jpg",
     "static/media/Ah Nhit 20.jpg": "/prototype-app/static/media/Ah Nhit 20.d2041e55.jpg",
     "static/media/Ah Thet Shu Mhar Tae Bawa.jpg": "/prototype-app/static/media/Ah Thet Shu Mhar Tae Bawa.ba5a216b.jpg",
     "static/media/AlexNautKya.jpg": "/prototype-app/static/media/AlexNautKya.3663a45d.jpg",
     "static/media/MyoGyiChangesAlbumPic.jpg": "/prototype-app/static/media/MyoGyiChangesAlbumPic.a0689854.jpg",
-    "static/media/achit lo khaw thalar lyrics.jpg": "/prototype-app/static/media/achit lo khaw thalar lyrics.502b6976.jpg"
+    "static/media/mdb.css": "/prototype-app/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/achit lo khaw thalar lyrics.jpg": "/prototype-app/static/media/achit lo khaw thalar lyrics.502b6976.jpg",
+    "static/media/all.min.css": "/prototype-app/static/media/fa-solid-900.f6121be5.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.784ee285.js",
-    "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.a96bdcc9.chunk.js",
-    "static/css/main.3091d808.chunk.css",
-    "static/js/main.c63611a7.chunk.js"
+    "static/css/2.3132dedf.chunk.css",
+    "static/js/2.6a0dfdb0.chunk.js",
+    "static/css/main.0deb45a3.chunk.css",
+    "static/js/main.f3c6287f.chunk.js"
   ]
 }
